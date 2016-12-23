@@ -1,0 +1,180 @@
+.intro {
+    font-size: 100px;
+    color: #424242;
+    font-family: 'Nunito', sans-serif;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+
+h1 {
+    font-size: 85px;
+    color: #424242;
+    font-family: 'Nunito', sans-serif;
+   
+}
+
+.epic1{
+    float: left;
+    width: 50%;
+}
+
+
+.epic2 {
+    font-size: 35px;
+    color: #FF5722;
+    font-family: 'Nunito', sans-serif;
+    float: right;
+    width: 50%;
+    padding-top: 200px;
+}
+
+
+img {
+    border-radius: 50px;  
+    width: 400px;
+}
+
+.main-header {
+    text-align: center;
+    height: 800px;
+    background-image: url(img/old-white-background.jpg);
+    background-size:cover; 
+}
+
+.epic3{ 
+    font-size: 85px;
+    color: #424242;
+    font-family: 'Nunito', sans-serif;
+    padding-top: 650px;
+   
+
+}
+
+
+.epic4{
+    font-size: 25px;
+    color: #2962FF;
+    font-family: 'Nunito', sans-serif;
+    float: left;
+    width: 50%;
+  
+}
+
+.epic5{
+    width: 50%;
+    float: right;
+}
+
+.new{
+    text-align: center;
+    height: 800px;
+    background-image: url(img/old-white-background.jpg);
+    background-size:cover; 
+}
+
+.epic6{
+    font-size: 85px;
+    color: #424242;
+    font-family: 'Nunito', sans-serif;
+    padding-top: 500px;
+}
+
+.epic7 {
+    width: 50%;
+    float: left;
+}
+
+.this{
+    text-align: center;
+    height: 800px;
+    background-image: url(img/old-white-background.jpg);
+    background-size:cover; 
+}
+
+.list1 {
+    font-size: 30px;
+    color: #E91E63;
+    font-family: 'Nunito', sans-serif;
+    padding-top: 85px;
+
+    
+}
+
+.hello1 {
+    font-size: 15px;
+    
+}
+
+.hello2{
+    font-size: 15px;
+}
+
+.hello3{
+    font-size: 15px;
+}
+
+.hello4{
+    font-size: 15px;
+}
+
+.yes {
+    text-align: center;
+    height: 800px;
+    background-image: url(img/old-white-background.jpg);
+    background-size:cover
+    
+}
+
+.epic8{
+    font-size: 85px;
+    color: #424242;
+    font-family: 'Nunito', sans-serif;
+    padding-top: 50px;
+}
+
+.epic9{
+    width: 50%;
+    float: right;
+}
+
+.epic10{
+    font-size: 20px;
+    color: #673AB7;
+    font-family: 'Nunito', sans-serif;
+    float: left;
+    width: 50%;
+    
+}
+
+/********* a link code *********/
+
+/* unvisited link */
+a:link {
+    color: red;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #009688;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+    text-decoration: none;
+}
+
+
+a {
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
